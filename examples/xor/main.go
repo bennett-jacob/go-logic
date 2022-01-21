@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/bennett-jacob/go-logic"
+	"github.com/bennett-jacob/go-logic/logic"
 )
 
 func main() {

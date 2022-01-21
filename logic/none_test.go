@@ -3,7 +3,7 @@ package logic_test
 import (
 	"testing"
 
-	"github.com/bennett-jacob/go-logic"
+	"github.com/bennett-jacob/go-logic/logic"
 )
 
 func TestNone(t *testing.T) {
