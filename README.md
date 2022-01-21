@@ -1,6 +1,6 @@
 # go-logic
 
-Logic utilities for humans.
+Logic utilities for humans. Zero dependencies.
 
 ## Installation
 
